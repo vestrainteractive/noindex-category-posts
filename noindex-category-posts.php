@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Noindex Category Posts
- * Plugin URI:  https://github.com/dietrichmd/wordpress_plugins/
+ * Plugin URI:  https://github.com/vestrainteractive/noindex-category-posts
  * Description: This plugin prevents posts in specific categories from being indexed by search engines using Rank Math's robots meta functionality. RANK MATH REQUIRED.  SImply add your categories to the array on line 24, activate and done.
  * Version: 1.0a
  * Author: Vestra Interactive
